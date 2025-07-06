@@ -1,0 +1,19 @@
+button{
+    width: 300px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: rgb(63, 85, 85);
+    color: white;
+    margin-left: 600px;
+
+}
+
+
+.a2{
+    width: 210px;
+}
+
+.a1{
+    display: flex;justify-content: center;
+    margin-right: 100px;
+}
